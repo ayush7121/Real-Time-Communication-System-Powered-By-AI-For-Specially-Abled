@@ -9,6 +9,7 @@ Vivek Sah
 
 
 Industry Mentor(s) Name	:	Sowjanya, Sandeep Doodigani
+
 Faculty Mentor(s) Name	:	Mrs.C.Padmavathy
 Domain: AI
 Tech Stack:
